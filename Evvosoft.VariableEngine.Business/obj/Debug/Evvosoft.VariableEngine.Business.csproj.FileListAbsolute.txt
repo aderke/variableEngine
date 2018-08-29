@@ -1,0 +1,6 @@
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Business\bin\Debug\Evvosoft.VariableEngine.Business.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Business\bin\Debug\Evvosoft.VariableEngine.Business.pdb
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Business\obj\Debug\Evvosoft.VariableEngine.Business.csprojAssemblyReference.cache
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Business\obj\Debug\Evvosoft.VariableEngine.Business.csproj.CoreCompileInputs.cache
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Business\obj\Debug\Evvosoft.VariableEngine.Business.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Business\obj\Debug\Evvosoft.VariableEngine.Business.pdb

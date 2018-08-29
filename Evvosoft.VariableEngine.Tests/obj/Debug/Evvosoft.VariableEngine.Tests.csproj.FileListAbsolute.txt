@@ -1,0 +1,16 @@
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\bin\Debug\Evvosoft.VariableEngine.Tests.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\bin\Debug\Evvosoft.VariableEngine.Tests.pdb
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\bin\Debug\Evvosoft.VariableEngine.Business.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\bin\Debug\Evvosoft.VariableEngine.Business.pdb
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\obj\Debug\Evvosoft.VariableEngine.Tests.csprojAssemblyReference.cache
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\obj\Debug\Evvosoft.VariableEngine.Tests.csproj.CoreCompileInputs.cache
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\obj\Debug\Evvosoft.VariableEngine.Tests.csproj.CopyComplete
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\obj\Debug\Evvosoft.VariableEngine.Tests.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.VariableEngine.Tests\obj\Debug\Evvosoft.VariableEngine.Tests.pdb

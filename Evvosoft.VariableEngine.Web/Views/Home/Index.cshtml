@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <div id="divExtract">
+        <br />
+        Please enter your expression: <br />
+        <input id="inpExpression" />
+        <button id="btnExtractVariables">Extract Variables</button>
+    </div>
+    <div id="divReplace" style="display: none;">
+        <br />
+        Extracted variables: <br/>
+        <div id="divVariables"></div>
+        <button id="btnReplaceVariables">Replace Variables</button>
+    </div><br/>
+    <div id="divMessage" style="display:none;"></div>
+</div>
+<div id="waiter" style="display:none;">
+    <div id="loader"></div>
+</div>

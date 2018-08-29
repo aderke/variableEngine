@@ -1,0 +1,12 @@
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ExtractVariables.Service.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Evvosoft.ExtractVariables.Service.Interfaces.deps.json
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ExtractVariables.Service.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Evvosoft.ExtractVariables.Service.Interfaces.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ExtractVariables.Service.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Evvosoft.ExtractVariables.Service.Interfaces.pdb
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ExtractVariables.Service.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Evvosoft.VariableEngine.Business.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ExtractVariables.Service.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Evvosoft.VariableEngine.Business.pdb
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ExtractVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ExtractVariables.Service.Interfaces.csprojAssemblyReference.cache
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ExtractVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ExtractVariables.Service.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ExtractVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ExtractVariables.Service.Interfaces.AssemblyInfoInputs.cache
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ExtractVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ExtractVariables.Service.Interfaces.AssemblyInfo.cs
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ExtractVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ExtractVariables.Service.Interfaces.csproj.CopyComplete
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ExtractVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ExtractVariables.Service.Interfaces.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ExtractVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ExtractVariables.Service.Interfaces.pdb

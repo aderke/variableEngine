@@ -1,0 +1,12 @@
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ReplaceVariables.Service.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Evvosoft.ReplaceVariables.Service.Interfaces.deps.json
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ReplaceVariables.Service.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Evvosoft.ReplaceVariables.Service.Interfaces.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ReplaceVariables.Service.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Evvosoft.ReplaceVariables.Service.Interfaces.pdb
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ReplaceVariables.Service.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Evvosoft.VariableEngine.Business.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ReplaceVariables.Service.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Evvosoft.VariableEngine.Business.pdb
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ReplaceVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ReplaceVariables.Service.Interfaces.csprojAssemblyReference.cache
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ReplaceVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ReplaceVariables.Service.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ReplaceVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ReplaceVariables.Service.Interfaces.AssemblyInfoInputs.cache
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ReplaceVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ReplaceVariables.Service.Interfaces.AssemblyInfo.cs
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ReplaceVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ReplaceVariables.Service.Interfaces.csproj.CopyComplete
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ReplaceVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ReplaceVariables.Service.Interfaces.dll
+C:\Users\freezn\source\repos\EvvosoftVariableEngine\Evvosoft.ReplaceVariables.Service.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Evvosoft.ReplaceVariables.Service.Interfaces.pdb

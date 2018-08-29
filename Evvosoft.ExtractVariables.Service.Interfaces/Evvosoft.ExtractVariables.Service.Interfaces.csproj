@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <IsServiceFabricServiceProject>True</IsServiceFabricServiceProject>
+    <RuntimeIdentifier>win7-x64</RuntimeIdentifier>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ServiceFabric.Actors" Version="3.1.301" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Evvosoft.VariableEngine.Business\Evvosoft.VariableEngine.Business.csproj" />
+  </ItemGroup>
+
+</Project>
